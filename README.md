@@ -1,8 +1,14 @@
 # NTUADL
 2020 NTUADL homework
 ## homework 1
-> text summary
+* text summary
+  * Abstractive
+  * Extractive w/o attention
+  * Extractive w attention
 ## homework 2
-> Question and Answer
+* Chinese Question Answering
+  * BERT
 ## homework 3
-> Reinforcement Learning
+* Reinforcement Learning
+  * PG
+  * DQN
